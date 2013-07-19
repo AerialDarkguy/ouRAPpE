@@ -4,5 +4,8 @@
     <string name="app_name">Rape Whistle</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="whistle">&quot;Rape Whistle&quot;</string>
+    <string name="call">&quot;Call 911&quot;</string>
+    <string name="offenders">&quot;Get Number of Sex Offenders&quot;</string>
 
 </resources>
